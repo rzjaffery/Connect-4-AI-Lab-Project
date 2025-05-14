@@ -48,8 +48,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/connect4-ai.git
-
+git clone https://github.com/rzjaffery/Connect-4-AI-Lab-Project.git
 Open the project in Unity.
 
 Build and run the project to start playing.
